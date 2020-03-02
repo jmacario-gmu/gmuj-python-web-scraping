@@ -1,0 +1,8 @@
+# provide list of urls below, one per line
+# start lines with # character to indicate comments
+# you must include the protocol (http or https)
+# directories must end with a trailing slash
+#
+#
+###
+https://volgenau.gmu.edu/
